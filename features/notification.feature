@@ -1,0 +1,1 @@
+scenario: Recebimento de notificação em tempo real (atualizado)
